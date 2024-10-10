@@ -21,13 +21,11 @@ These experiences have not only strengthened my problem-solving skills but also 
 
 Below you can check out my most recent projects which I have made along my first year of studying at Noroff Education.
 
-| Project Name | Description | Tech Stack | Live Demo | Repo |
-| ------------ | ----------- | ---------- | --------- | ---- |
-
-|
-| **Blog** | A blog where the owner can register a new user, they can login to the edit panel and create blog posts. | HTML, CSS, JavaScript, API | [Live](https://fed1-pe1-ihlonne.netlify.app/) | [Repo](https://github.com/NoroffFEU/FED1-PE1-ihlonne) |
-| **E-commerce Store** | AAn interactive JavaScript-based online store that integrates a product API, enabling users to browse, filter, view product details, manage a shopping basket, and complete checkout with a confirmation page, featuring error handling, loading indicators, and an accessible user interface. | [Live](https://ihl-rainy-days-v2.netlify.app/) | [Repo](https://github.com/ihlonne/rainydays-v2) |
-| **Community Science Blog** | This assignment simulates a real-world brief from a web agency: the Bergen Science Museum, targeting primary and middle school children (ages 7-15) and families with young kids, is set to open soon near your area. | HTML, CSS | [Live](https://sp1-ihlonne.netlify.app/) | [Repo](https://github.com/ihlonne/semester-project-1) |
+| Project Name               | Description                                                                                                                                                                                                                                                                                   | Tech Stack                 | Live Demo                                      | Repo                                                  |
+| -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------------------------------------------- | ----------------------------------------------------- |
+| **Blog**                   | A blog where the owner can register a new user, and they can log in to the edit panel to create blog posts.                                                                                                                                                                                   | HTML, CSS, JavaScript, API | [Live](https://fed1-pe1-ihlonne.netlify.app/)  | [Repo](https://github.com/NoroffFEU/FED1-PE1-ihlonne) |
+| **E-commerce Store**       | An interactive JavaScript-based online store that integrates a product API, enabling users to browse, filter, view product details, manage a shopping basket, and complete checkout with a confirmation page, featuring error handling, loading indicators, and an accessible user interface. | HTML, CSS, JavaScript      | [Live](https://ihl-rainy-days-v2.netlify.app/) | [Repo](https://github.com/ihlonne/rainydays-v2)       |
+| **Community Science Blog** | This assignment simulates a real-world brief from a web agency: the Bergen Science Museum, targeting primary and middle school children (ages 7-15) and families with young kids, is set to open soon near your area.                                                                         | HTML, CSS, JavaScript      | [Live](https://sp1-ihlonne.netlify.app/)       | [Repo](https://github.com/ihlonne/semester-project-1) |
 
 ## Skills 🛠️
 
