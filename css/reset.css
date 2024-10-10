@@ -1,4 +1,4 @@
-@import url("./variables.css");
+@import url('./variables.css');
 
 *,
 *::before,
@@ -21,7 +21,7 @@ body {
 
   font-family: var(--montserrat);
   font-size: 0.75rem;
-  color: var(--light-color);
+  color: var(--primary-dark);
   margin: 0 auto;
 }
 
@@ -60,5 +60,5 @@ p {
 
 a {
   text-decoration: none;
-  color: var(--light-color);
+  color: var(--primary-light);
 }
