@@ -334,6 +334,10 @@ a:active {
   align-items: center;
   max-width: 1200px;
 
+  a {
+    color: var(--primary-dark);
+  }
+
   @media (width < 1200px) {
     margin: 0 auto;
     width: 100%;
