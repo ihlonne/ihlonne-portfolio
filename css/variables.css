@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bigshot+One&display=swap");
+
+:root {
+  --primary-dark: #262626;
+  --primary-light: #f9f9f9;
+  --primary-contrast: #5464bf;
+  --secondary-contrast: #f2aec1;
+
+  --montserrat: "Montserrat", sans-serif;
+  --satisfy: "Satisfy", cursive;
+  --header-font: "Bigshot One", serif;
+}
